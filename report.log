@@ -1,0 +1,7 @@
+2025-01-23 20:00:35,253 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-23 20:00:35,269 - matplotlib.category - INFO - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2025-01-23 20:19:11,422 - pyswarms.single.global_best - INFO - Optimize for 100 iters with {'c1': 0.2, 'c2': 1.0, 'w': 0.9, 'k': 35, 'p': 25}
+2025-01-23 20:19:25,825 - pyswarms.single.global_best - INFO - Optimization finished | best cost: 0.012499999999999956, best pos: [0.61476284 0.66580449 0.94614523 0.46920544 0.02431076 0.61235175
+ 0.43401792 0.35055571 0.73318813 0.3878196  0.68905735 0.38059012
+ 0.08232662 0.62370665 0.17533231 0.54728703 0.07160057 0.59980121
+ 0.62249944 0.2417236  0.47392326 0.6036542  0.70286585 0.40268384]
